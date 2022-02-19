@@ -32,7 +32,6 @@ public class Notas {
 	}
 
 	/**
-	 * 
 	 * @param reader
 	 * @param num_nota
 	 */
